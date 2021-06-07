@@ -1,5 +1,6 @@
 Shell:
 ✔ shell脚本回顾学习 @done(21-02-28 18:45)
+☐ 系统服务管理脚本 @remark(https://www.linuxidc.com/Linux/2017-01/139794.htm)
 
 I/O:
 ✘ select调用stackoverflow @started(21-02-09 10:14) @cancelled(21-02-09 15:07) @wasted(4h53m39s)
