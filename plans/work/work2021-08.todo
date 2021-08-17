@@ -1,0 +1,6 @@
+多AZ需求:
+☐ vpc和subnet配合console联调
+☐ port 和vip 配合console联调
+
+流量计费需求:
+☐ 超带宽给运维发邮件+最近一个小时的实时带宽 
